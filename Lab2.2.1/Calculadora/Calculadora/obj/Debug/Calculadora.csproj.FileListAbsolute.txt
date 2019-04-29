@@ -1,0 +1,38 @@
+C:\Users\gsant\Documents\GPHack20 l Lite\DOCUMENTOS\Google Drive\KHAI\Semestre 2.2\Tecnologia de la Programacion\LAB2.2.1\Calculadora\Calculadora\bin\Debug\Calculadora.exe.config
+C:\Users\gsant\Documents\GPHack20 l Lite\DOCUMENTOS\Google Drive\KHAI\Semestre 2.2\Tecnologia de la Programacion\LAB2.2.1\Calculadora\Calculadora\bin\Debug\Calculadora.exe
+C:\Users\gsant\Documents\GPHack20 l Lite\DOCUMENTOS\Google Drive\KHAI\Semestre 2.2\Tecnologia de la Programacion\LAB2.2.1\Calculadora\Calculadora\bin\Debug\Calculadora.pdb
+C:\Users\gsant\Documents\GPHack20 l Lite\DOCUMENTOS\Google Drive\KHAI\Semestre 2.2\Tecnologia de la Programacion\LAB2.2.1\Calculadora\Calculadora\obj\Debug\Calculadora.csprojAssemblyReference.cache
+C:\Users\gsant\Documents\GPHack20 l Lite\DOCUMENTOS\Google Drive\KHAI\Semestre 2.2\Tecnologia de la Programacion\LAB2.2.1\Calculadora\Calculadora\obj\Debug\Calculadora.Form1.resources
+C:\Users\gsant\Documents\GPHack20 l Lite\DOCUMENTOS\Google Drive\KHAI\Semestre 2.2\Tecnologia de la Programacion\LAB2.2.1\Calculadora\Calculadora\obj\Debug\Calculadora.Properties.Resources.resources
+C:\Users\gsant\Documents\GPHack20 l Lite\DOCUMENTOS\Google Drive\KHAI\Semestre 2.2\Tecnologia de la Programacion\LAB2.2.1\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.GenerateResource.cache
+C:\Users\gsant\Documents\GPHack20 l Lite\DOCUMENTOS\Google Drive\KHAI\Semestre 2.2\Tecnologia de la Programacion\LAB2.2.1\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\gsant\Documents\GPHack20 l Lite\DOCUMENTOS\Google Drive\KHAI\Semestre 2.2\Tecnologia de la Programacion\LAB2.2.1\Calculadora\Calculadora\obj\Debug\Calculadora.exe
+C:\Users\gsant\Documents\GPHack20 l Lite\DOCUMENTOS\Google Drive\KHAI\Semestre 2.2\Tecnologia de la Programacion\LAB2.2.1\Calculadora\Calculadora\obj\Debug\Calculadora.pdb
+C:\Users\GPHack20\Desktop\Calculadora\Calculadora\bin\Debug\Calculadora.exe.config
+C:\Users\GPHack20\Desktop\Calculadora\Calculadora\bin\Debug\Calculadora.exe
+C:\Users\GPHack20\Desktop\Calculadora\Calculadora\bin\Debug\Calculadora.pdb
+C:\Users\GPHack20\Desktop\Calculadora\Calculadora\obj\Debug\Calculadora.Form1.resources
+C:\Users\GPHack20\Desktop\Calculadora\Calculadora\obj\Debug\Calculadora.Properties.Resources.resources
+C:\Users\GPHack20\Desktop\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.GenerateResource.cache
+C:\Users\GPHack20\Desktop\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\GPHack20\Desktop\Calculadora\Calculadora\obj\Debug\Calculadora.exe
+C:\Users\GPHack20\Desktop\Calculadora\Calculadora\obj\Debug\Calculadora.pdb
+C:\Users\gsant\Documents\GPHack20 l Lite\DOCUMENTOS\Google Drive\KHAI\Semestre 2.2\iTecnologia de la Programacion\LAB2.2.1\Calculadora\Calculadora\bin\Debug\Calculadora.exe.config
+C:\Users\gsant\Documents\GPHack20 l Lite\DOCUMENTOS\Google Drive\KHAI\Semestre 2.2\iTecnologia de la Programacion\LAB2.2.1\Calculadora\Calculadora\bin\Debug\Calculadora.exe
+C:\Users\gsant\Documents\GPHack20 l Lite\DOCUMENTOS\Google Drive\KHAI\Semestre 2.2\iTecnologia de la Programacion\LAB2.2.1\Calculadora\Calculadora\bin\Debug\Calculadora.pdb
+C:\Users\gsant\Documents\GPHack20 l Lite\DOCUMENTOS\Google Drive\KHAI\Semestre 2.2\iTecnologia de la Programacion\LAB2.2.1\Calculadora\Calculadora\obj\Debug\Calculadora.Form1.resources
+C:\Users\gsant\Documents\GPHack20 l Lite\DOCUMENTOS\Google Drive\KHAI\Semestre 2.2\iTecnologia de la Programacion\LAB2.2.1\Calculadora\Calculadora\obj\Debug\Calculadora.Properties.Resources.resources
+C:\Users\gsant\Documents\GPHack20 l Lite\DOCUMENTOS\Google Drive\KHAI\Semestre 2.2\iTecnologia de la Programacion\LAB2.2.1\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.GenerateResource.cache
+C:\Users\gsant\Documents\GPHack20 l Lite\DOCUMENTOS\Google Drive\KHAI\Semestre 2.2\iTecnologia de la Programacion\LAB2.2.1\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\gsant\Documents\GPHack20 l Lite\DOCUMENTOS\Google Drive\KHAI\Semestre 2.2\iTecnologia de la Programacion\LAB2.2.1\Calculadora\Calculadora\obj\Debug\Calculadora.exe
+C:\Users\gsant\Documents\GPHack20 l Lite\DOCUMENTOS\Google Drive\KHAI\Semestre 2.2\iTecnologia de la Programacion\LAB2.2.1\Calculadora\Calculadora\obj\Debug\Calculadora.pdb
+C:\Users\gsant\Desktop\Calculadora\Calculadora\bin\Debug\Calculadora.exe.config
+C:\Users\gsant\Desktop\Calculadora\Calculadora\bin\Debug\Calculadora.exe
+C:\Users\gsant\Desktop\Calculadora\Calculadora\bin\Debug\Calculadora.pdb
+C:\Users\gsant\Desktop\Calculadora\Calculadora\obj\Debug\Calculadora.csprojAssemblyReference.cache
+C:\Users\gsant\Desktop\Calculadora\Calculadora\obj\Debug\Calculadora.Form1.resources
+C:\Users\gsant\Desktop\Calculadora\Calculadora\obj\Debug\Calculadora.Properties.Resources.resources
+C:\Users\gsant\Desktop\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.GenerateResource.cache
+C:\Users\gsant\Desktop\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\gsant\Desktop\Calculadora\Calculadora\obj\Debug\Calculadora.exe
+C:\Users\gsant\Desktop\Calculadora\Calculadora\obj\Debug\Calculadora.pdb

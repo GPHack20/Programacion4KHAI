@@ -1,0 +1,46 @@
+C:\Users\gsant\Documents\GPHack20 l Lite\DOCUMENTOS\Google Drive\KHAI\Semestre 2.2\Tecnologia de la Programacion\LAB2.2.1\Calculadora\CalculadoraCompleta\bin\Debug\CalculadoraCompleta.exe.config
+C:\Users\gsant\Documents\GPHack20 l Lite\DOCUMENTOS\Google Drive\KHAI\Semestre 2.2\Tecnologia de la Programacion\LAB2.2.1\Calculadora\CalculadoraCompleta\bin\Debug\CalculadoraCompleta.exe
+C:\Users\gsant\Documents\GPHack20 l Lite\DOCUMENTOS\Google Drive\KHAI\Semestre 2.2\Tecnologia de la Programacion\LAB2.2.1\Calculadora\CalculadoraCompleta\bin\Debug\CalculadoraCompleta.pdb
+C:\Users\gsant\Documents\GPHack20 l Lite\DOCUMENTOS\Google Drive\KHAI\Semestre 2.2\Tecnologia de la Programacion\LAB2.2.1\Calculadora\CalculadoraCompleta\obj\Debug\CalculadoraCompleta.Form1.resources
+C:\Users\gsant\Documents\GPHack20 l Lite\DOCUMENTOS\Google Drive\KHAI\Semestre 2.2\Tecnologia de la Programacion\LAB2.2.1\Calculadora\CalculadoraCompleta\obj\Debug\CalculadoraCompleta.Properties.Resources.resources
+C:\Users\gsant\Documents\GPHack20 l Lite\DOCUMENTOS\Google Drive\KHAI\Semestre 2.2\Tecnologia de la Programacion\LAB2.2.1\Calculadora\CalculadoraCompleta\obj\Debug\CalculadoraCompleta.csproj.GenerateResource.cache
+C:\Users\gsant\Documents\GPHack20 l Lite\DOCUMENTOS\Google Drive\KHAI\Semestre 2.2\Tecnologia de la Programacion\LAB2.2.1\Calculadora\CalculadoraCompleta\obj\Debug\CalculadoraCompleta.csproj.CoreCompileInputs.cache
+C:\Users\gsant\Documents\GPHack20 l Lite\DOCUMENTOS\Google Drive\KHAI\Semestre 2.2\Tecnologia de la Programacion\LAB2.2.1\Calculadora\CalculadoraCompleta\obj\Debug\CalculadoraCompleta.exe
+C:\Users\gsant\Documents\GPHack20 l Lite\DOCUMENTOS\Google Drive\KHAI\Semestre 2.2\Tecnologia de la Programacion\LAB2.2.1\Calculadora\CalculadoraCompleta\obj\Debug\CalculadoraCompleta.pdb
+C:\Users\GPHack20\Desktop\Calculadora\CalculadoraCompleta\bin\Debug\CalculadoraCompleta.exe.config
+C:\Users\GPHack20\Desktop\Calculadora\CalculadoraCompleta\bin\Debug\CalculadoraCompleta.exe
+C:\Users\GPHack20\Desktop\Calculadora\CalculadoraCompleta\bin\Debug\CalculadoraCompleta.pdb
+C:\Users\GPHack20\Desktop\Calculadora\CalculadoraCompleta\obj\Debug\CalculadoraCompleta.csprojAssemblyReference.cache
+C:\Users\GPHack20\Desktop\Calculadora\CalculadoraCompleta\obj\Debug\CalculadoraCompleta.Form1.resources
+C:\Users\GPHack20\Desktop\Calculadora\CalculadoraCompleta\obj\Debug\CalculadoraCompleta.Properties.Resources.resources
+C:\Users\GPHack20\Desktop\Calculadora\CalculadoraCompleta\obj\Debug\CalculadoraCompleta.csproj.GenerateResource.cache
+C:\Users\GPHack20\Desktop\Calculadora\CalculadoraCompleta\obj\Debug\CalculadoraCompleta.csproj.CoreCompileInputs.cache
+C:\Users\GPHack20\Desktop\Calculadora\CalculadoraCompleta\obj\Debug\CalculadoraCompleta.exe
+C:\Users\GPHack20\Desktop\Calculadora\CalculadoraCompleta\obj\Debug\CalculadoraCompleta.pdb
+C:\Users\GPHack20\Desktop\Calculadora\CalculadoraCompleta\bin\Debug\MathNet.Numerics.dll
+C:\Users\GPHack20\Desktop\Calculadora\CalculadoraCompleta\bin\Debug\MathNet.Numerics.xml
+C:\Users\GPHack20\Desktop\Calculadora\CalculadoraCompleta\obj\Debug\CalculadoraCompleta.csproj.CopyComplete
+C:\Users\gsant\Documents\GPHack20 l Lite\DOCUMENTOS\Google Drive\KHAI\Semestre 2.2\iTecnologia de la Programacion\LAB2.2.1\Calculadora\CalculadoraCompleta\bin\Debug\CalculadoraCompleta.exe.config
+C:\Users\gsant\Documents\GPHack20 l Lite\DOCUMENTOS\Google Drive\KHAI\Semestre 2.2\iTecnologia de la Programacion\LAB2.2.1\Calculadora\CalculadoraCompleta\bin\Debug\CalculadoraCompleta.exe
+C:\Users\gsant\Documents\GPHack20 l Lite\DOCUMENTOS\Google Drive\KHAI\Semestre 2.2\iTecnologia de la Programacion\LAB2.2.1\Calculadora\CalculadoraCompleta\bin\Debug\CalculadoraCompleta.pdb
+C:\Users\gsant\Documents\GPHack20 l Lite\DOCUMENTOS\Google Drive\KHAI\Semestre 2.2\iTecnologia de la Programacion\LAB2.2.1\Calculadora\CalculadoraCompleta\bin\Debug\MathNet.Numerics.dll
+C:\Users\gsant\Documents\GPHack20 l Lite\DOCUMENTOS\Google Drive\KHAI\Semestre 2.2\iTecnologia de la Programacion\LAB2.2.1\Calculadora\CalculadoraCompleta\bin\Debug\MathNet.Numerics.xml
+C:\Users\gsant\Documents\GPHack20 l Lite\DOCUMENTOS\Google Drive\KHAI\Semestre 2.2\iTecnologia de la Programacion\LAB2.2.1\Calculadora\CalculadoraCompleta\obj\Debug\CalculadoraCompleta.Form1.resources
+C:\Users\gsant\Documents\GPHack20 l Lite\DOCUMENTOS\Google Drive\KHAI\Semestre 2.2\iTecnologia de la Programacion\LAB2.2.1\Calculadora\CalculadoraCompleta\obj\Debug\CalculadoraCompleta.Properties.Resources.resources
+C:\Users\gsant\Documents\GPHack20 l Lite\DOCUMENTOS\Google Drive\KHAI\Semestre 2.2\iTecnologia de la Programacion\LAB2.2.1\Calculadora\CalculadoraCompleta\obj\Debug\CalculadoraCompleta.csproj.GenerateResource.cache
+C:\Users\gsant\Documents\GPHack20 l Lite\DOCUMENTOS\Google Drive\KHAI\Semestre 2.2\iTecnologia de la Programacion\LAB2.2.1\Calculadora\CalculadoraCompleta\obj\Debug\CalculadoraCompleta.csproj.CoreCompileInputs.cache
+C:\Users\gsant\Documents\GPHack20 l Lite\DOCUMENTOS\Google Drive\KHAI\Semestre 2.2\iTecnologia de la Programacion\LAB2.2.1\Calculadora\CalculadoraCompleta\obj\Debug\CalculadoraCompleta.csproj.CopyComplete
+C:\Users\gsant\Documents\GPHack20 l Lite\DOCUMENTOS\Google Drive\KHAI\Semestre 2.2\iTecnologia de la Programacion\LAB2.2.1\Calculadora\CalculadoraCompleta\obj\Debug\CalculadoraCompleta.exe
+C:\Users\gsant\Documents\GPHack20 l Lite\DOCUMENTOS\Google Drive\KHAI\Semestre 2.2\iTecnologia de la Programacion\LAB2.2.1\Calculadora\CalculadoraCompleta\obj\Debug\CalculadoraCompleta.pdb
+C:\Users\gsant\Desktop\Calculadora\CalculadoraCompleta\bin\Debug\CalculadoraCompleta.exe.config
+C:\Users\gsant\Desktop\Calculadora\CalculadoraCompleta\bin\Debug\CalculadoraCompleta.exe
+C:\Users\gsant\Desktop\Calculadora\CalculadoraCompleta\bin\Debug\CalculadoraCompleta.pdb
+C:\Users\gsant\Desktop\Calculadora\CalculadoraCompleta\bin\Debug\MathNet.Numerics.dll
+C:\Users\gsant\Desktop\Calculadora\CalculadoraCompleta\bin\Debug\MathNet.Numerics.xml
+C:\Users\gsant\Desktop\Calculadora\CalculadoraCompleta\obj\Debug\CalculadoraCompleta.Form1.resources
+C:\Users\gsant\Desktop\Calculadora\CalculadoraCompleta\obj\Debug\CalculadoraCompleta.Properties.Resources.resources
+C:\Users\gsant\Desktop\Calculadora\CalculadoraCompleta\obj\Debug\CalculadoraCompleta.csproj.GenerateResource.cache
+C:\Users\gsant\Desktop\Calculadora\CalculadoraCompleta\obj\Debug\CalculadoraCompleta.csproj.CoreCompileInputs.cache
+C:\Users\gsant\Desktop\Calculadora\CalculadoraCompleta\obj\Debug\CalculadoraCompleta.csproj.CopyComplete
+C:\Users\gsant\Desktop\Calculadora\CalculadoraCompleta\obj\Debug\CalculadoraCompleta.exe
+C:\Users\gsant\Desktop\Calculadora\CalculadoraCompleta\obj\Debug\CalculadoraCompleta.pdb

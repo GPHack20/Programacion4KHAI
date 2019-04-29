@@ -1,0 +1,24 @@
+C:\Users\GPHack20\Desktop\Calculadora\UnitTestLAB1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\GPHack20\Desktop\Calculadora\UnitTestLAB1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\GPHack20\Desktop\Calculadora\UnitTestLAB1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\GPHack20\Desktop\Calculadora\UnitTestLAB1\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\GPHack20\Desktop\Calculadora\UnitTestLAB1\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\GPHack20\Desktop\Calculadora\UnitTestLAB1\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\GPHack20\Desktop\Calculadora\UnitTestLAB1\bin\Debug\UnitTestLAB1.dll
+C:\Users\GPHack20\Desktop\Calculadora\UnitTestLAB1\bin\Debug\UnitTestLAB1.pdb
+C:\Users\GPHack20\Desktop\Calculadora\UnitTestLAB1\bin\Debug\CalculadoraCompleta.exe
+C:\Users\GPHack20\Desktop\Calculadora\UnitTestLAB1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\GPHack20\Desktop\Calculadora\UnitTestLAB1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\GPHack20\Desktop\Calculadora\UnitTestLAB1\bin\Debug\MathNet.Numerics.dll
+C:\Users\GPHack20\Desktop\Calculadora\UnitTestLAB1\bin\Debug\CalculadoraCompleta.pdb
+C:\Users\GPHack20\Desktop\Calculadora\UnitTestLAB1\bin\Debug\CalculadoraCompleta.exe.config
+C:\Users\GPHack20\Desktop\Calculadora\UnitTestLAB1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\GPHack20\Desktop\Calculadora\UnitTestLAB1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\GPHack20\Desktop\Calculadora\UnitTestLAB1\bin\Debug\MathNet.Numerics.xml
+C:\Users\GPHack20\Desktop\Calculadora\UnitTestLAB1\obj\Debug\UnitTestLAB1.csprojAssemblyReference.cache
+C:\Users\GPHack20\Desktop\Calculadora\UnitTestLAB1\obj\Debug\UnitTestLAB1.csproj.CoreCompileInputs.cache
+C:\Users\GPHack20\Desktop\Calculadora\UnitTestLAB1\obj\Debug\UnitTestLAB1.csproj.CopyComplete
+C:\Users\GPHack20\Desktop\Calculadora\UnitTestLAB1\obj\Debug\UnitTestLAB1.dll
+C:\Users\GPHack20\Desktop\Calculadora\UnitTestLAB1\obj\Debug\UnitTestLAB1.pdb
+C:\Users\gsant\Documents\GPHack20 l Lite\DOCUMENTOS\Google Drive\KHAI\Semestre 2.2\iTecnologia de la Programacion\LAB2.2.1\Calculadora\UnitTestLAB1\obj\Debug\UnitTestLAB1.dll
+C:\Users\gsant\Documents\GPHack20 l Lite\DOCUMENTOS\Google Drive\KHAI\Semestre 2.2\iTecnologia de la Programacion\LAB2.2.1\Calculadora\UnitTestLAB1\obj\Debug\UnitTestLAB1.pdb
